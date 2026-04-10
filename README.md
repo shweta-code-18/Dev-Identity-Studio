@@ -2,6 +2,10 @@
 
 A premium developer identity card generator built with HTML, CSS, and JavaScript.
 
+## Live Link
+https://shweta-code-18.github.io/Dev-Identity-Studio/
+
+
 ## Features Included
 
 - Fully responsive glassmorphism interface
